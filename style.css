@@ -48,3 +48,13 @@
   display: block;
   margin-top: 20px;
 }
+/* upcoming */
+.upcoming-matches {
+  display: flex;
+}
+.upcoming-left {
+  background-color: black;
+}
+.upcoming-right {
+  background-color: orange;
+}
